@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# SystemFiles
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+env/
+*.pyc
+
+# PythonCompiledFiles
+*.pyc
+*.pyo
+*.pyd
+
+# ProjectFiles
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
