@@ -1,4 +1,4 @@
-# Lekcja 4 Zadanie 2
+# Lekcja 6 Zadanie 4
 # Kalkulator przeliczający wartość: z netto na brutto
 
 netto = float(input('Podaj mi wartość netto: '))

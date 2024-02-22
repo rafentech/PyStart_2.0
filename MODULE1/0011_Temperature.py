@@ -1,4 +1,4 @@
-# Lekcja 6 Zadanie 3
+# Lekcja 6 Zadanie 8
 # Napisz program, który zapyta użytkownika o temperaturę.
 # Jeśli będzie 10 stopni lub zimniej wypisz “zostań w domu”
 # Jeśli będzie więcej niż 10, ale mniej niż 20 wypisz “weź kurtkę!”

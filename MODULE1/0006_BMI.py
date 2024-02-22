@@ -1,4 +1,4 @@
-# Lekcja 4 Zadanie 1
+# Lekcja 6 Zadanie 3
 # Zapytaj użytkownika o wzrost i wagę i policz jego BMI
 # BMI - masa w kg/(wzrost w metrach)2)
 

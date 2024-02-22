@@ -1,4 +1,4 @@
-# Lekcja 6 Zadanie 1
+# Lekcja 6 Zadanie 6
 # Odbierz od użytkownika liczbę. Wyświetl odpowiednią
 # informację w zależności czy ta liczba jest parzysta.
 # Liczba parzysta dzieli się przez 2 bez reszty.

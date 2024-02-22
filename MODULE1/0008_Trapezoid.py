@@ -1,4 +1,4 @@
-# Lekcja 4 Zadanie 3
+# Lekcja 6 Zadanie 5
 # Zapytaj użytkownika o potrzebne dane i policz pole trapezu
 
 a = int(input('podaj długość podstawy trapezu? '))

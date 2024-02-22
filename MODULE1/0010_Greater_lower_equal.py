@@ -1,4 +1,4 @@
-# Lekcja 6 Zadanie 2
+# Lekcja 6 Zadanie 7
 # Odbierz od użytkownika dwie wartości. Porównaj je ze sobą.
 # Sprawdź, która jest większa lub czy są sobie równe.
 

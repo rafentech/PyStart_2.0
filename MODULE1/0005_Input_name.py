@@ -1,4 +1,4 @@
-# Zadanie 2
+# Lekcja 6 Zadanie 2
 # Przywitaj się z programistą
 
 name = input('Jak masz na imię?')
